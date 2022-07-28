@@ -1,0 +1,4 @@
+!Var:=vaR_1+18;(*adDitonn*)
+var_1++; (*increment)
+a:="HAtTAp";
+whiLe?(a:=B);
